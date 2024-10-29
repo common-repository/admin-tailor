@@ -1,0 +1,66 @@
+/**
+* Admin Tailor settings page styles.
+* (prefix is not required because these css only loads on the admin-tailor page)
+*/
+
+.jn-admin-tailor-upload img {
+  display: block;
+  height: 84px;
+  margin-bottom: 5px;
+  width: 84px;
+}
+
+a:focus {
+  box-shadow: none;
+  outline: 0;
+}
+
+.patterns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 35px;
+}
+
+.patterns li {
+  border: 5px solid #e0e0e0;
+  border-radius: 5px;
+  height: 180px;
+  position: relative;
+  transition: border .2s;
+  width: 180px;
+}
+
+.patterns li:hover {
+  border-color: #ab47bc;
+  cursor: pointer;
+}
+
+.patterns li span {
+  color: #00e676;
+  font-size: 50px;
+  position: absolute;
+  right: 0;
+  text-shadow: 1px 1px 3px #ffb74d;
+  top: -10px;
+}
+
+.patterns li img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.patterns li p {
+  background: #ab47bc;
+  border-top: 3px solid #fdd835;
+  bottom: 0;
+  color: #fafafa;
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0;
+  padding: 4px 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+

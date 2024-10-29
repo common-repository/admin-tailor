@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Flevix.com  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1800px"
+	 height="1200px" viewBox="0 0 1800 1200" enable-background="new 0 0 1800 1200" xml:space="preserve">
+
+
+<g id="Background">
+	<radialGradient id="SVGID_1_" cx="931.9186" cy="-677.8467" r="2665.1953" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#1C75BC"/>
+		<stop  offset="1" style="stop-color:#262262"/>
+	</radialGradient>
+	<rect x="-38.91" y="-6.767" fill="url(#SVGID_1_)" width="1875.46" height="1213.533"/>
+</g>
+
+<g id="Dotted">
+	
+		<ellipse opacity=".5" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-miterlimit="25" stroke-dasharray="25,25" cx="871.256" cy="0" rx="625.74" ry="144.105"/>
+	
+		<ellipse opacity=".5"  fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-miterlimit="25" stroke-dasharray="25,25" cx="1765.553" cy="589.318" rx="144.105" ry="687.422"/>
+	
+		<ellipse opacity=".5"  fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-miterlimit="25" stroke-dasharray="25,25" cx="0" cy="613.32" rx="144.105" ry="687.422"/>
+	
+		<ellipse opacity=".5"  fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" stroke-miterlimit="25" stroke-dasharray="25,25" cx="899.821" cy="1194.316" rx="625.74" ry="144.105"/>
+</g>
+
+
+
+<g id="MIddle_Items">
+	<g opacity="0.5">
+		<radialGradient id="SVGID_6_" cx="523.2814" cy="413.8004" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_6_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="523.281" y1="389.798" x2="523.281" y2="437.803"/>
+		<radialGradient id="SVGID_7_" cx="523.2814" cy="413.8004" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_7_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="499.279" y1="413.8" x2="547.284" y2="413.8"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="3s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_8_" cx="523.2814" cy="779.837" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_8_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="523.281" y1="755.835" x2="523.281" y2="803.839"/>
+		<radialGradient id="SVGID_9_" cx="523.2814" cy="779.837" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_9_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="499.279" y1="779.837" x2="547.284" y2="779.837"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="4s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_10_" cx="361.2652" cy="917.8509" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_10_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="361.265" y1="893.848" x2="361.265" y2="941.853"/>
+		<radialGradient id="SVGID_11_" cx="361.2652" cy="917.8509" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_11_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="337.263" y1="917.851" x2="385.268" y2="917.851"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="5s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_12_" cx="361.2652" cy="589.3181" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_12_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="361.265" y1="565.316" x2="361.265" y2="613.32"/>
+		<radialGradient id="SVGID_13_" cx="361.2652" cy="589.3181" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_13_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="337.263" y1="589.318" x2="385.268" y2="589.318"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="6s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		
+			<line fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="361.265" y1="236.783" x2="361.265" y2="284.788"/>
+		
+			<line fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="337.263" y1="260.785" x2="385.268" y2="260.785"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="3s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_14_" cx="695.7987" cy="917.8508" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_14_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="695.799" y1="893.848" x2="695.799" y2="941.853"/>
+		<radialGradient id="SVGID_15_" cx="695.7987" cy="917.8508" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_15_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="671.796" y1="917.851" x2="719.801" y2="917.851"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="5s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_16_" cx="695.7987" cy="589.318" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_16_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="695.799" y1="565.316" x2="695.799" y2="613.32"/>
+		<radialGradient id="SVGID_17_" cx="695.7987" cy="589.318" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_17_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="671.796" y1="589.318" x2="719.801" y2="589.318"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="4s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_18_" cx="695.7987" cy="260.7852" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_18_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="695.799" y1="236.783" x2="695.799" y2="284.788"/>
+		<radialGradient id="SVGID_19_" cx="695.7987" cy="260.7852" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_19_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="671.796" y1="260.785" x2="719.801" y2="260.785"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="4s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_20_" cx="898.8206" cy="413.8004" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_20_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="898.821" y1="389.798" x2="898.821" y2="437.803"/>
+		<radialGradient id="SVGID_21_" cx="898.8206" cy="413.8004" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_21_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="874.818" y1="413.8" x2="922.823" y2="413.8"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="3s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_22_" cx="898.8206" cy="779.837" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_22_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="898.821" y1="755.835" x2="898.821" y2="803.839"/>
+		<radialGradient id="SVGID_23_" cx="898.8206" cy="779.837" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_23_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="874.818" y1="779.837" x2="922.823" y2="779.837"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="4s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_24_" cx="1274.8566" cy="413.8004" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_24_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1274.857" y1="389.798" x2="1274.857" y2="437.803"/>
+		<radialGradient id="SVGID_25_" cx="1274.8566" cy="413.8004" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_25_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1250.854" y1="413.8" x2="1298.859" y2="413.8"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="5s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_26_" cx="1274.8566" cy="779.837" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_26_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1274.857" y1="755.835" x2="1274.857" y2="803.839"/>
+		<radialGradient id="SVGID_27_" cx="1274.8566" cy="779.837" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_27_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1250.854" y1="779.837" x2="1298.859" y2="779.837"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="6s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_28_" cx="1100.3351" cy="917.8508" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_28_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1100.335" y1="893.848" x2="1100.335" y2="941.853"/>
+		<radialGradient id="SVGID_29_" cx="1100.3351" cy="917.8508" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_29_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1076.333" y1="917.851" x2="1124.338" y2="917.851"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="5s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_30_" cx="1100.3351" cy="589.318" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_30_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1100.335" y1="565.316" x2="1100.335" y2="613.32"/>
+		<radialGradient id="SVGID_31_" cx="1100.3351" cy="589.318" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_31_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1076.333" y1="589.318" x2="1124.338" y2="589.318"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="4s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_32_" cx="1100.3351" cy="260.7852" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_32_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1100.335" y1="236.783" x2="1100.335" y2="284.788"/>
+		<radialGradient id="SVGID_33_" cx="1100.3351" cy="260.7852" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_33_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1076.333" y1="260.785" x2="1124.338" y2="260.785"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="3s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_34_" cx="1424.8716" cy="917.8508" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_34_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1424.872" y1="893.848" x2="1424.872" y2="941.853"/>
+		<radialGradient id="SVGID_35_" cx="1424.8716" cy="917.8508" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_35_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1400.869" y1="917.851" x2="1448.874" y2="917.851"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="4s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_36_" cx="1424.8716" cy="589.318" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_36_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1424.872" y1="565.316" x2="1424.872" y2="613.32"/>
+		<radialGradient id="SVGID_37_" cx="1424.8716" cy="589.318" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_37_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1400.869" y1="589.318" x2="1448.874" y2="589.318"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="5s" repeatCount="indefinite" />
+	</g>
+
+	<g opacity="0.5">
+		<radialGradient id="SVGID_38_" cx="1424.8716" cy="260.7852" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_38_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1424.872" y1="236.783" x2="1424.872" y2="284.788"/>
+		<radialGradient id="SVGID_39_" cx="1424.8716" cy="260.7852" r="16.9723" gradientUnits="userSpaceOnUse">
+			<stop  offset="0" style="stop-color:#1C75BC"/>
+			<stop  offset="1" style="stop-color:#262262"/>
+		</radialGradient>
+		
+			<line fill="url(#SVGID_39_)" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-miterlimit="25" x1="1400.869" y1="260.785" x2="1448.874" y2="260.785"/>
+			<animate attributeName="opacity" values="0;.6;0" begin="0s" dur="3s" repeatCount="indefinite" />
+	</g>
+</g>
+</svg>

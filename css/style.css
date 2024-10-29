@@ -1,0 +1,20 @@
+/**
+* Admin Tailor settings page styles.
+* (no need to prefix because these css only loads on the admin-tailor page)
+*/
+
+form {
+  min-height: 800px;
+}
+
+img {
+  width: 84px;
+  height: 84px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+a:focus {
+  box-shadow: none;
+  outline: 0;
+}
